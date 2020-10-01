@@ -3,7 +3,7 @@
 
 _gram=input("Enter the weight in grams.\n\n")
 
-print("The conversion of entered weight in other units are:\n" )
+print("The conversion for the entered weight to other units are:\n" )
 
 _kg=_gram*10**(-3)
 
